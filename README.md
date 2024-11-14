@@ -4,33 +4,34 @@
 
 | #   | Product          |           Report                    |
 | --- | :--------------- |:-----------------------------------:|
-| 30 | Ulti MR           |                                     |
-| 29 | Gondi             |                                     |
-| 28 | Thrackle          |                                     |
-| 27 | Sofa              |                                     |
-| 26 | 4Real Finance     |                                     |
+| 31 | Ulti MR           |                                     |
+| 30 | Gondi             |                                     |
+| 29 | Thrackle          |                                     |
+| 28 | Sofa              |                                     |
+| 27 | 4Real Finance     |                                     |
+| 26 | Jupiter           |                                     |
 | 25 | Jupiter           |                                     |
-| 24 | Jupiter           |                                     |
-| 23 | Nibiru            |                                     |
-| 22 | Amplified         |                                     |
-| 21 | Pooltogether      |                                     |
-| 20 | NameSpace         |                                     |
-| 19 | Ulti              |                                     |
-| 18 | Moxie             |                                     |
-| 17 | Ramses Consulting |                                     |
-| 16 | Gondi             |                                     |
-| 15 | Legion            |                                     |
-| 14 | Thrackle          |                                     |
-| 13 | LIQ Markets       |                                     |
-| 12 | XDEFI             |                                     |
-| 11 | Fractality        |                                     |
-| 10 | Celo              |                                     |
-| 9  | Moxie             |                                     |
-| 8  | Gemnify           |                                     |
-| 7  | Playfi            |                                     |
+| 24 | Nibiru            |                                     |
+| 23 | Amplified         |                                     |
+| 22 | Pooltogether      |                                     |
+| 21 | NameSpace         |                                     |
+| 20 | Ulti              |                                     |
+| 19 | Moxie             |                                     |
+| 18 | Ramses Consulting |                                     |
+| 17 | Gondi             |                                     |
+| 16 | Legion            |                                     |
+| 15 | Thrackle          |                                     |
+| 14 | LIQ Markets       |                                     |
+| 13 | XDEFI             |                                     |
+| 12 | Fractality        |                                     |
+| 11 | Celo              |                                     |
+| 10  | Moxie             |                                     |
+| 9  | Gemnify           |                                     |
+| 8  | Playfi            |                                     |
+| 7  | Moxie             |                                     |
 | 6  | Moxie             |                                     |
-| 5  | Moxie             |                                     |
-| 4  | Tornado Blast - Rocket Launcher  |                                     |
-| 3  | Tornado Blast     |                                     |
-| 2  | Strateg           |                                     |
-| 1  | Karak             |                                     |
+| 5  | Tornado Blast - Rocket Launcher  |                                     |
+| 4  | Tornado Blast     |                                     |
+| 3  | Strateg           |                                     |
+| 2  | Karak             |                                     |
+| 1  | Agent             |                                     |
