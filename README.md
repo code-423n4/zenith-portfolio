@@ -4,6 +4,10 @@
 
 | #   | Product          |           Report                    |
 | --- | :--------------- |:-----------------------------------:|
+| 37 | Traitforge    | []() |
+| 36 | Kakarot MR     | []() |
+| 35 | Bubblemaps     | []() |
+| 34 | Cega     | []() |                                    
 | 33 | Legion Solana     | [📋](./reports/2024-09-legion-solana-zenith.pdf)                                     |
 | 32 | Ulti MR           | []()                                                                                 |
 | 31 | Gondi             | [📋](./reports/2024-10-gondi-zenith.pdf)                                             |
