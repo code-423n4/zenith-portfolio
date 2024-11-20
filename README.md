@@ -4,7 +4,7 @@
 
 | #   | Product          |           Report                    |
 | --- | :--------------- |:-----------------------------------:|
-| 37 | Traitforge    | []() |
+| 37 | Traitforge    |  [📋](./reports/2024-10-traitforge-zenith.pdf) |
 | 36 | Kakarot MR     | []() |
 | 35 | Bubblemaps     | []() |
 | 34 | Cega     | []() |                                    
