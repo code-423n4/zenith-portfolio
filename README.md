@@ -4,6 +4,11 @@
 
 | #   | Product          |           Report                    |
 | --- | :--------------- |:-----------------------------------:|
+| 42  | Print World      |                                     |
+| 41  | Unruggable       |                                     |
+| 40  | Corn             |                                     |
+| 39  | Ethena MR         |                                    |
+| 38 | Ramses MR          |                                    |
 | 37 | Traitforge    |  [📋](./reports/2024-10-traitforge-zenith.pdf) |
 | 36 | Kakarot MR     | []() |
 | 35 | Bubblemaps     | []() |
@@ -35,8 +40,9 @@
 | 9  | Moxie             | [📋](./reports/2024-07-moxie-zenith.pdf)                                            |
 | 8  | Moxie             | [📋](./reports/2024-06-moxie-zenith.pdf)                                            |
 | 7  | Tornado Blast - Rocket Launcher  | [📋](./reports/2024-06-tornado-launcher-zenith.pdf)                        |
-| 5  | Tornado Blast     | [📋](./reports/2024-06-tornadoblast-zenith.pdf)                                    |
-| 4  | Strateg           | [📋](./reports/2024-06-strateg-zenith.pdf)                                        |
-| 3  | Karak             | [📋](./reports/2024-06-karak-zenith.pdf)                                            |
-| 2  | Agent             | [📋](./reports/2024-05-agent-zenith.pdf)                                            |  
-| 1 | Sofa     | [📋](./reports/2024-05-agent-zenith.pdf)                                                      |
+| 6  | Tornado Blast     | [📋](./reports/2024-06-tornadoblast-zenith.pdf)                                    |
+| 5  | Strateg           | [📋](./reports/2024-06-strateg-zenith.pdf)                                        |
+| 4  | Karak             | [📋](./reports/2024-06-karak-zenith.pdf)                                            |
+| 3  | Agent             | [📋](./reports/2024-05-agent-zenith.pdf)                                            |  
+| 2 | Sofa     | [📋](./reports/2024-05-agent-zenith.pdf)                                                      |
+| 1 | Album | 📋  | 
