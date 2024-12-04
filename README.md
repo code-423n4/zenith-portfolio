@@ -4,6 +4,9 @@
 
 | #   | Product          |           Report                    |
 | --- | :--------------- |:-----------------------------------:|
+| 45  | Sosovalue      |                                     |
+| 44  | Autonomous      |                                     |
+| 43  | Moxie - referral awards   |                                     |
 | 42  | Print World      |                                     |
 | 41  | Unruggable       |                                     |
 | 40  | Corn             |                                     |
