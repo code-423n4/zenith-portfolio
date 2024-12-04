@@ -4,12 +4,7 @@
 
 | #   | Product          |           Report                    |
 | --- | :--------------- |:-----------------------------------:|
-| 45  | Sosovalue      |                                     |
-| 44  | Autonomous      |                                     |
-| 43  | Moxie - referral awards   |                                     |
-| 42  | Print World      |                                     |
-| 41  | Unruggable       |                                     |
-| 40  | Corn             |                                     |
+| 40  | Moxie - referral awards   |                                     |
 | 39  | Ethena MR         |                                    |
 | 38 | Ramses MR          |                                    |
 | 37 | Traitforge    |  [📋](./reports/2024-10-traitforge-zenith.pdf) |
