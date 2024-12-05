@@ -5,10 +5,10 @@
 | #   | Product          |           Report                    |
 | --- | :--------------- |:-----------------------------------:|
 | 40  | Moxie - referral awards   |                                     |
-| 39  | Ethena MR         |                                    |
-| 38 | Ramses MR          |                                    |
+| 39  | Ethena          |                                    |
+| 38 | Ramses           |                                    |
 | 37 | Traitforge    |  [📋](./reports/2024-10-traitforge-zenith.pdf) |
-| 36 | Kakarot MR     | []() |
+| 36 | Kakarot      | []() |
 | 35 | Bubblemaps     | []() |
 | 34 | Cega     | []() |                                    
 | 33 | Legion Solana     | [📋](./reports/2024-09-legion-solana-zenith.pdf)                                     |
