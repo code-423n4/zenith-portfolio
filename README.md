@@ -12,7 +12,7 @@
 | 35 | Bubblemaps     | []() |
 | 34 | Cega     | []() |                                    
 | 33 | Legion Solana     | [📋](./reports/2024-09-legion-solana-zenith.pdf)                                     |
-| 32 | Ulti MR           | []()                                                                                 |
+| 32 | Ulti           | []()                                                                                 |
 | 31 | Gondi             | [📋](./reports/2024-10-gondi-zenith.pdf)                                             |
 | 30 | Thrackle          | []()                                                                                 |
 | 29 | Sofa              | [📋](/2024-10-sofa-zenith.pdf)                                                       |
