@@ -4,6 +4,9 @@
 
 | #   | Product          |           Report                    |
 | --- | :--------------- |:-----------------------------------:|
+| 43  | SSI Protocol  |                                     |
+| 42  | Corn  |                                     |
+| 41  | Saga   |                                     |
 | 40  | Moxie - referral awards   |                                     |
 | 39  | Ethena          |                                    |
 | 38 | Ramses           |                                    |
