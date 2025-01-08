@@ -4,12 +4,8 @@
 
 | #   | Product                         |                        Report                        |
 | --- | :------------------------------ | :--------------------------------------------------: |
-| 51  | Continuum                       |                                                      |
-| 50  | Pie.fun                         |                                                      |
-| 49  | Solera                          |                                                      |
-| 48  | Shogun                          |                                                      |
-| 47  | Echelon                         |                                                      |
-| 46  | Diambra                         |                                                      |
+| 47  | Pie.fun                         |                                                      |
+| 46  | Solera                          |                                                      |
 | 45  | Print World                     |                                                      |
 | 44  | Autonomous Finance              |                                                      |
 | 43  | SSI Protocol                    |                                                      |
