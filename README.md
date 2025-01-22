@@ -4,9 +4,19 @@
 
 | #   | Product                         |                        Report                        |
 | --- | :------------------------------ | :--------------------------------------------------: |
-| 50  | Y2K                            |                                                      |
-| 49  | Sofa                            |                                                      |
-| 48  | Echelon                         |                                                      |
+| 60  | Fractality                      |                                                      |
+| 59  | Sofa                            |                                                      |
+| 58  | Echelon                         |                                                      |
+| 57  | Nibiru                          |                                                      |
+| 56  | GMX                             |                                                      |
+| 55  | Bitmind                         |                                                      |
+| 54  | Ebisu                           |                                                      |
+| 53  | Gondi                           |                                                      |
+| 52  | Virtuals                        |                                                      |
+| 51  | The Farm                        |                                                      |
+| 50  | MyShell                         |                                                      |
+| 49  | Diambra                         |                                                      |
+| 48  | Shogun                          |                                                      |
 | 47  | Pie.fun                         |                                                      |
 | 46  | Solera                          |                                                      |
 | 45  | Print World                     |                                                      |
